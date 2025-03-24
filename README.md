@@ -31,8 +31,8 @@ This chatbot helps bridge gaps in healthcare by:
 1. **Clone the Repository**:
 
    ```bash
-   git clone 
-   cd git@github.com:jamesoyanna/voice_vision_ai.git
+   git clone git@github.com:jamesoyanna/voice_vision_ai.git
+   cd vision_voice_ai
    ```
 
 2. **Set Up Virtual Environment**:
