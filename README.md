@@ -32,7 +32,7 @@ This chatbot helps bridge gaps in healthcare by:
 
    ```bash
    git clone 
-   cd vision_voice_ai
+   cd git@github.com:jamesoyanna/voice_vision_ai.git
    ```
 
 2. **Set Up Virtual Environment**:
